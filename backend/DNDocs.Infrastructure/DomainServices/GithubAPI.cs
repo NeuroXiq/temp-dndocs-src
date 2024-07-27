@@ -76,7 +76,6 @@ namespace DNDocs.Infrastructure.DomainServices
     internal class GithubAPI : IGithubAPI
     {
         /*
-(curl https://api.github.com/users/EasyHttp -headers @{'Authorization'='Basic YmJiNjhkNDZjOGU0ODdlNzQwMzA6N2ZiMDE5Njg3MDc3MTVjMThmM2VlM2VjYWVjZWUwMDJiZGNlYTE2OA=='}).headers
 
 clientid:secret
 */
